@@ -1,0 +1,25 @@
+{
+  "name": "Lab-Class-16",
+  "version": "1.0.0",
+  "description": "- [submission PR](https://github.com/401-advanced-javascript-dania/Lab-Class-16/pull/1)\r - [ci/cd](https://github.com/401-advanced-javascript-dania/Lab-Class-16/actions)\r - [swagger_hub]()",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint":"eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-dania/Lab-Class-16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-dania/Lab-Class-16/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-dania/Lab-Class-16#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0"
+  }
+}
